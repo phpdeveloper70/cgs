@@ -1,0 +1,2 @@
+[16-Nov-2018 09:39:52 UTC] PHP Fatal error:  Call to a member function get_all_active_blog_category() on null in /home/tatvamherbals/public_html/application/controllers/Welcome.php on line 42
+[16-Nov-2018 09:40:58 UTC] PHP Fatal error:  Call to a member function get_all_active_blog_category() on null in /home/tatvamherbals/public_html/application/controllers/Welcome.php on line 43
